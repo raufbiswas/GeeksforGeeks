@@ -1,0 +1,1 @@
+# https://www.geeksforgeeks.org/problems/grinding-geek/1
